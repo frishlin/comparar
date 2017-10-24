@@ -9,4 +9,6 @@ Ejercicio Comparacion
 3.1. Si los elementos son diferentes, se rompe la ejecución del programa con un return False
 3.2. Si son iguales se continúan comparando uno por uno, los elementos
 4. Regresar True
-5. Fin
+5.fin 
+
+![imagen del diagrama](diagrama.jpg)
